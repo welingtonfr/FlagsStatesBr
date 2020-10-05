@@ -2,3 +2,5 @@
 <p align="center">
   <strong>API com todas a bandeiras dos estados do Brasil</strong>
 </p>
+
+## [API Exemplo](https://flagsstatebr.glitch.me/flags/es)
